@@ -1,0 +1,19 @@
+names:
+- Coat
+- Id
+- Long-Sleeves
+- Ribbon
+- Shoes
+- Skirt
+- Slacks
+- Tie
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: boysngirls
+  url: https://universe.roboflow.com/uniform-lhi4a/boysngirls/dataset/11
+  version: 11
+  workspace: uniform-lhi4a
+test: ../test/images
+train: ../train/images
+val: ../valid/images

@@ -1,0 +1,21 @@
+install visual studio community - Desktop development with c++
+
+install dependencies 
+
+install CUDA 
+
+download CuDNN Tarball 12
+
+copy past the files in cudnn to CUDA file directory 
+
+uninstall torch torchaudio torchvision if needed 
+
+go pytorch web and install it again 
+
+install CMAKE go cmake website download the .msi file
+
+install both cmake and dlib globally
+
+pip install face_recognition
+
+pip install firebase_admin
